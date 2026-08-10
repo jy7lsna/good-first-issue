@@ -105,6 +105,7 @@ repositories = [
   'github.com/canonical/multipass',
   'github.com/casey/just',
   'github.com/catboost/catboost',
+  'https://github.com/caura-ai/caura-memclaw/'
   'github.com/centerofci/mathesar',
   'github.com/certbot/certbot',
   'github.com/CesiumGS/cesium',
